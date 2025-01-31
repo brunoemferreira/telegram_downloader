@@ -75,7 +75,7 @@ Ative o ambiente virtual:
 1. Inicie o script principal:
   
   ```shell
-  $ python3 main.py
+  $ python main.py
   ```
 2. Após iniciar o script, todos os chats serão listados e salvos no arquivo `listagem_chats.txt`. Use essa listagem para escolher o **ID** do chat que deseja baixar.
 
